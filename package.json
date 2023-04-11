@@ -12,7 +12,6 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
      "sonar": "node sonar-project.js"
-    "username":"10fea727295d768e6374891f9646298ff400ab58"
   },
   "dependencies": {
     "cfenv": "^1.1.0",
